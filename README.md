@@ -1,7 +1,7 @@
 #  AI-Powered IoT-Based Smart Health Monitoring and Diagnostic System (NEXA)
 
 ---
-
+![Project Banner](WhatsApp Image 2026-03-13 at 19.32.27.jpeg)
 ##  Project Overview
 
 This project is an advanced AI-integrated IoT-based health monitoring system developed using ESP32. It continuously monitors vital health parameters such as heart rate, SpO₂, and body temperature in real time. The system also integrates an AI assistant, voice interaction (STT & TTS), and a web-based dashboard for intelligent health analysis and remote monitoring.
