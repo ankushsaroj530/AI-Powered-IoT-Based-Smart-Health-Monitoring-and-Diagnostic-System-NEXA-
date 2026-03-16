@@ -79,6 +79,8 @@ The ESP32 uses **Google Translate TTS service** to convert text into speech.
 4. MAX98357A I2S audio module plays the sound through a speaker.
 5. The user hears the AI response.
 
+## Demo Video
+https://github.com/username/repository-name/blob/main/demo.mp4
 ### Purpose of TTS:
 
 - Provides audio feedback
