@@ -80,7 +80,8 @@ The ESP32 uses **Google Translate TTS service** to convert text into speech.
 5. The user hears the AI response.
 
 ## Demo Video
-https://github.com//AI-ankushsaroj530-IoT-Based-Smart-Health-Monitoring-and-Diagnostic-System-NEXA-/blob/main/demo.mp4
+https://github.com/ankushsaroj/AI-ankushsaroj530-IoT-Based-Smart-Health-Monitoring-and-Diagnostic-System-NEXA-/blob/main/demo.mp4
+
 ### Purpose of TTS:
 
 - Provides audio feedback
