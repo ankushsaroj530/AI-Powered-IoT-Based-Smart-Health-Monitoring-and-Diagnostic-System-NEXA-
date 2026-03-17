@@ -179,7 +179,10 @@ Note: Use a 4.7kΩ pull-up resistor between DATA and VCC.
 - Firebase integration
 
 ---
-
+## Preview 
+![Project Image](Dashboard.jpeg)
+![Project Image](demo1.jpeg)
+![Project Image](demo2.jpeg)
 ##  Developed By
 
 Ankush  
